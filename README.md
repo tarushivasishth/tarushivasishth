@@ -1,0 +1,3 @@
+As an Artificial Intelligence and Data Science student, I have a strong foundation in programming with C and Python, coupled with solid expertise in machine learning and data science. With a keen interest in technology and a passion for problem-solving, I am currently broadening my skill set by diving into Deep Learning and Generative AI.
+
+Beyond my technical abilities, I am a strong communicator and enjoy collaborating with others to tackle complex challenges and develop innovative solutions. As I continue to expand my knowledge and skills in AI and data science, I am excited about the opportunities that lie ahead.
